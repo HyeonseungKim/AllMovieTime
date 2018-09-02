@@ -1,0 +1,4 @@
+#Wed Aug 15 19:35:51 KST 2018
+base.0=C\:\\Users\\Administrator\\AndroidStudioProjects\\MovietimeChecker\\app\\build\\intermediates\\transforms\\dexMerger\\dev\\debug\\32
+path.0=classes.dex
+renamed.0=classes.dex

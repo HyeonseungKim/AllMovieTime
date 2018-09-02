@@ -1,0 +1,180 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:2:1-54:12
+MERGED from [com.android.databinding:adapters:3.1.4] C:\Users\user\.gradle\caches\transforms-1\files-1.1\adapters-3.1.4.aar\ae1073422dc4a70f4ad1d6838252dba9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.1.4] C:\Users\user\.gradle\caches\transforms-1\files-1.1\library-3.1.4.aar\d59fa59466617fda021608313689b63f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\dc38f12a63d83fb66c1821793dceae6f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ad3cfd3bec3b7a242e86e445d9a1d109\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\user\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\34341d2811258e81d715144d0606c2df\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\57f16fe04d6d5c66f67c144a83a69bfa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\5e8db9f7f0571653a149aebe5cf144d4\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b134b8f4a1549ac060540b1d738eb1bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\abb161e8087adbbd7a39425a83fd9b2c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fc913c80ad59dadded64cfb8e34ef190\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a1272f1360bea4792d5cd26b4e218ce4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\88fefadcd32ac0dc717cf346ff8708db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e7ff9d42ef0e9b5a9575938be92506a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ea31befe6ec19f25b8c223a9f236e1df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\bf509a9186952844dca91206dabc2792\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\643fa9216c627798a9996de69f138665\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9103e52a757fb6300e560b536ca32151\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\b4a40577e0134d4c1643d98dd9d2d5c8\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ef4647b6b3073d6aa455898d2905c3cd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e003d61cf3f8841bff0a4ce4b7089906\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e198aa244f515dfec369dbab2b7ef2b9\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:2:1-54:12
+	package
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:2:1-54:12
+		INJECTED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:2:1-54:12
+		INJECTED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:8:22-76
+application
+ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:10:5-52:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\user\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\34341d2811258e81d715144d0606c2df\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\user\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\34341d2811258e81d715144d0606c2df\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\5e8db9f7f0571653a149aebe5cf144d4\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\5e8db9f7f0571653a149aebe5cf144d4\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\b4a40577e0134d4c1643d98dd9d2d5c8\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\b4a40577e0134d4c1643d98dd9d2d5c8\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:16:9-52
+activity#com.khs.www.movietimechecker.MainBoardRelated.MainBoard
+ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:17:9-24:20
+	android:launchMode
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:19:13-43
+	android:name
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:18:13-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.khs.www.movietimechecker.HotMovieRelated.HotMovie
+ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:26:9-32:20
+	android:parentActivityName
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:28:13-69
+	android:name
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:27:13-53
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:29:13-31:63
+	android:value
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:31:17-60
+	android:name
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:30:17-63
+activity#com.khs.www.movietimechecker.FindTheaterRelated.TheaterSelectionTabBoard
+ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:34:9-40:20
+	android:parentActivityName
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:36:13-69
+	android:name
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:35:13-72
+activity#com.khs.www.movietimechecker.FinalSelectionRelated.Finalselection
+ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:42:9-50:20
+	android:parentActivityName
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:45:13-69
+	android:label
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:44:13-43
+	android:theme
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml:43:13-65
+uses-sdk
+INJECTED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.1.4] C:\Users\user\.gradle\caches\transforms-1\files-1.1\adapters-3.1.4.aar\ae1073422dc4a70f4ad1d6838252dba9\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.1.4] C:\Users\user\.gradle\caches\transforms-1\files-1.1\adapters-3.1.4.aar\ae1073422dc4a70f4ad1d6838252dba9\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.4] C:\Users\user\.gradle\caches\transforms-1\files-1.1\library-3.1.4.aar\d59fa59466617fda021608313689b63f\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.4] C:\Users\user\.gradle\caches\transforms-1\files-1.1\library-3.1.4.aar\d59fa59466617fda021608313689b63f\AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\dc38f12a63d83fb66c1821793dceae6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\dc38f12a63d83fb66c1821793dceae6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ad3cfd3bec3b7a242e86e445d9a1d109\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ad3cfd3bec3b7a242e86e445d9a1d109\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\user\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\34341d2811258e81d715144d0606c2df\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\user\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\34341d2811258e81d715144d0606c2df\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\57f16fe04d6d5c66f67c144a83a69bfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\57f16fe04d6d5c66f67c144a83a69bfa\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\5e8db9f7f0571653a149aebe5cf144d4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\5e8db9f7f0571653a149aebe5cf144d4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b134b8f4a1549ac060540b1d738eb1bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b134b8f4a1549ac060540b1d738eb1bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\abb161e8087adbbd7a39425a83fd9b2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\abb161e8087adbbd7a39425a83fd9b2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fc913c80ad59dadded64cfb8e34ef190\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fc913c80ad59dadded64cfb8e34ef190\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a1272f1360bea4792d5cd26b4e218ce4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a1272f1360bea4792d5cd26b4e218ce4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\88fefadcd32ac0dc717cf346ff8708db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\88fefadcd32ac0dc717cf346ff8708db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e7ff9d42ef0e9b5a9575938be92506a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e7ff9d42ef0e9b5a9575938be92506a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ea31befe6ec19f25b8c223a9f236e1df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ea31befe6ec19f25b8c223a9f236e1df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\bf509a9186952844dca91206dabc2792\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\bf509a9186952844dca91206dabc2792\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\643fa9216c627798a9996de69f138665\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\643fa9216c627798a9996de69f138665\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9103e52a757fb6300e560b536ca32151\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9103e52a757fb6300e560b536ca32151\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\b4a40577e0134d4c1643d98dd9d2d5c8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\b4a40577e0134d4c1643d98dd9d2d5c8\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ef4647b6b3073d6aa455898d2905c3cd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ef4647b6b3073d6aa455898d2905c3cd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e003d61cf3f8841bff0a4ce4b7089906\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e003d61cf3f8841bff0a4ce4b7089906\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e198aa244f515dfec369dbab2b7ef2b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e198aa244f515dfec369dbab2b7ef2b9\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\MovietimeChecker\app\src\main\AndroidManifest.xml

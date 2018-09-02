@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+        <variable
+            name="fragment"
+            type="com.khs.www.movietimechecker.FindTheaterRelated.FavoriteTheater" />
+    </data>
+
+    <LinearLayout
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/mLinear">
+
+
+
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/favoritetheaterlist"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="11"
+        android:choiceMode="multipleChoice"/>
+
+
+
+</LinearLayout>
+</layout>

@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Mon Aug 13 22:09:25 KST 2018
+1.base=C\:\\Users\\Administrator\\AndroidStudioProjects\\MovietimeChecker\\app\\build\\intermediates\\assets\\dev\\debug
+2.path=fonts/NanumBarunGothicUltraLight.ttf
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=C\:\\Users\\Administrator\\AndroidStudioProjects\\MovietimeChecker\\app\\build\\intermediates\\assets\\dev\\debug
+3.set=ASSET
+2.set=ASSET
+1.baseType=DIRECTORY
+3.path=fonts/NanumBarunGothicLight.ttf
+count=4
+1.set=ASSET
+0.path=fonts/NanumBarunGothic.ttf
+3.base=C\:\\Users\\Administrator\\AndroidStudioProjects\\MovietimeChecker\\app\\build\\intermediates\\assets\\dev\\debug
+0.set=ASSET
+0.base=C\:\\Users\\Administrator\\AndroidStudioProjects\\MovietimeChecker\\app\\build\\intermediates\\assets\\dev\\debug
+2.baseType=DIRECTORY
+1.path=fonts/NanumBarunGothicBold.ttf

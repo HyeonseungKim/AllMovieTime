@@ -1,0 +1,13 @@
+#Wed Aug 15 19:02:09 KST 2018
+path.3=classes.dex
+path.2=classes.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=C\:\\Users\\Administrator\\AndroidStudioProjects\\MovietimeChecker\\app\\build\\intermediates\\transforms\\dexMerger\\dev\\debug\\38
+base.2=C\:\\Users\\Administrator\\AndroidStudioProjects\\MovietimeChecker\\app\\build\\intermediates\\transforms\\dexMerger\\dev\\debug\\37
+base.1=C\:\\Users\\Administrator\\AndroidStudioProjects\\MovietimeChecker\\app\\build\\intermediates\\transforms\\dexMerger\\dev\\debug\\39
+base.0=C\:\\Users\\Administrator\\AndroidStudioProjects\\MovietimeChecker\\app\\build\\intermediates\\transforms\\dexMerger\\dev\\debug\\36

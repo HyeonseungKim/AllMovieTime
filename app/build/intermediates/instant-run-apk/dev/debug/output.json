@@ -1,0 +1,1 @@
+[{"outputType":{"type":"APK"},"apkInfo":{"type":"FULL_SPLIT","splits":[{"filterType":"ABI","value":"arm64-v8a"}],"versionCode":1,"versionName":"1.6","enabled":true,"filterName":"arm64-v8a","outputFile":"app-dev-arm64-v8a-debug.apk","fullName":"devArm64-v8aDebug","baseName":"dev-arm64-v8a-debug"},"path":"app-dev-arm64-v8a-debug.apk","properties":{}}]

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">무비클릭</string>
+    <string name="do_share">앱 공유하기</string>
+    <string name="do_ask">댓글달기</string>
+    <string name="font_light">NanumBarunGothicLight.ttf</string>
+    <string name="font_bold">NanumBarunGothicBold.ttf</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>

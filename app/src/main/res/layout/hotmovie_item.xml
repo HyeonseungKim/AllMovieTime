@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.khs.www.movietimechecker.ETC.CheckableLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mLinear"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:choiceMode="multipleChoice"
+    android:descendantFocusability="blocksDescendants"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:padding="5dp"
+
+    >
+
+
+    <ImageView
+        android:id="@+id/moviePoster"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:contentDescription="영화 포스터"
+        android:gravity="center"
+
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/customloadingicon" />
+
+
+    <TextView
+        android:id="@+id/movieTitle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="4"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:textSize="19sp" />
+
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/movieTitlecheckbox"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_gravity="center"
+            android:background="@drawable/custom_checkbox"
+            android:button="@null"
+
+
+            android:focusable="false"
+
+            />
+    </LinearLayout>
+
+
+</com.khs.www.movietimechecker.ETC.CheckableLinearLayout>
+
+
+
